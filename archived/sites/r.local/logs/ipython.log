@@ -1,0 +1,10 @@
+2025-01-16 20:18:56,429 INFO ipython === bench console session ===
+2025-01-16 20:18:56,430 INFO ipython from reno.page.employee_attendance.employee_attendance import check_in, check_out
+
+check_in()
+check_out()
+2025-01-16 20:18:56,430 INFO ipython === session end ===
+2025-01-16 21:55:22,705 INFO ipython === bench console session ===
+2025-01-16 21:55:22,707 INFO ipython frappe.delete_doc('Page', 'employee_attendance')
+2025-01-16 21:55:22,708 INFO ipython frappe.delete_doc('Page', 'employee_attendan')
+2025-01-16 21:55:22,708 INFO ipython === session end ===
